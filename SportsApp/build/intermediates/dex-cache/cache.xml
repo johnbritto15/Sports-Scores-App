@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\5491c16c4fbcbd8921bc2efd3181acb60b01f929\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc4e351d0f8b2009dc08473fbfe1eab9b1b114a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\1e981e7b1f55393b1a14678b97809d27af5cc080\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41c8662fb78011cf8b98ffa6044b7b447b3e6113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\b7b2103c0b6d46ed791460e79a65a8102275ccd7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b511158b827f3e85a29603c9124c917f70a731a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\52bad026e2354124188ff115bcef58c37f87ffbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8b245e399eacc0099565ce7b05c24a90a08f8f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\b57e5c5c42efb6ff3b1d37ce12314eaa7c4015be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_226df1e7ac6164c3f18f4c14b389a5d40e55bb16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\f4f4a7f0b40551ae0d7cd27fed931ebb556ab0e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_423933566ef261688b779fdb595ee0a3bb1e9e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\ac6c99fd1258329ea10c24c2a54c27380ee4a699\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1afe4c6f3a6dbd244edd161b9d0214793fbbb493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\dff6d81dfdbca0ae355ad988db3d402ac9211183\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ecf4cef2ab44fd18b457facf0eac03ff5b18696a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\1c734deb18520f3a0eaa62a3d339d6849e96e586\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da32efaf2a60dc01a2f67fce942f2a850f3a1e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\218771324f85ebaa8b5f3d89da57ba20b09497fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aa8081dfd3d3f61898cf0b950a621ddc89f3317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\e166cd18efc8031bd2e46d596c2fd2264b10c1cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99a96de81513b9e168dac12923402ca2e32b3f3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4bcdd188da841339c13876e6eb86b35ff7a09f2">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e047c34c28abb5124d7464aa5cc60774592636ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\f4c70ef723d97205b925edda21011306d07f7bda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4907498dc16d34c342af3cffff0d5c2e9def25c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\0ba0e825542f56fc85946a90bab909afb83f6634\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d36569a2addf38ae06e291f22faf609127c6bfd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\de267d3f8af5fc7f2fb3d1060bed35b8eb2ee893\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d60c0c8449a918d18504ad8498f0b824121297bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd7b6a9a2d3cef71abfaeb98468ff85f02858491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagar prabhu\.android\build-cache\70a302d99d63ca84b094a7f58f22eb6dfb2bbb5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\sagar prabhu\Desktop\SportsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db793918ae6dbb4996dbc649eac66c3ef51cda27\classes.dex" />
+    </item>
+
+</items>

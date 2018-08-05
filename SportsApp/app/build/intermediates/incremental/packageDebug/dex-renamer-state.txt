@@ -1,0 +1,7 @@
+#Thu Apr 06 01:20:54 IST 2017
+base.0=C\:\\Users\\sagar prabhu\\Desktop\\SportsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd7b6a9a2d3cef71abfaeb98468ff85f02858491
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sagar prabhu\\Desktop\\SportsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e047c34c28abb5124d7464aa5cc60774592636ce\\classes.dex
+base.1=C\:\\Users\\sagar prabhu\\Desktop\\SportsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e047c34c28abb5124d7464aa5cc60774592636ce
+file.0=C\:\\Users\\sagar prabhu\\Desktop\\SportsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd7b6a9a2d3cef71abfaeb98468ff85f02858491\\classes.dex
